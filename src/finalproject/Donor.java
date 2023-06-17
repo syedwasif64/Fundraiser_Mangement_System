@@ -2,6 +2,7 @@ package finalproject;
 public class Donor {
     private String name,address,email,phoneNo,donationHistory,password;
 
+    //Kuch bhi
     public Donor(String name, String address, String email, String phoneNo, String donationHistory) {
         this.name = name;
         this.address = address;
